@@ -1,0 +1,9 @@
+pyrofork
+tgcrypto
+aiohttp
+beautifulsoup4
+lxml
+Pillow>=10.1
+motor
+dnspython
+python-dotenv

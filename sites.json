@@ -1,0 +1,313 @@
+{
+  "_note": "Edit freely. engine: madara | themesia | mangadex | weebcentral | kakalot | asura. Set \"enabled\": false to hide a site. Domains change often - fix `url` here when a site moves.",
+  "sites": [
+    {
+      "key": "mangadex",
+      "name": "MangaDex",
+      "engine": "mangadex",
+      "url": "https://api.mangadex.org",
+      "category": "manga"
+    },
+    {
+      "key": "weebcentral",
+      "name": "Weeb Central",
+      "engine": "weebcentral",
+      "url": "https://weebcentral.com",
+      "category": "manga"
+    },
+    {
+      "key": "mangakakalot",
+      "name": "MangaKakalot",
+      "engine": "kakalot",
+      "url": "https://www.mangakakalot.gg",
+      "category": "manga"
+    },
+    {
+      "key": "asura",
+      "name": "Asura Scans",
+      "engine": "asura",
+      "url": "https://asuracomic.net",
+      "category": "manhwa"
+    },
+    {
+      "key": "manhuaplus",
+      "name": "ManhuaPlus",
+      "engine": "madara",
+      "url": "https://manhuaplus.com",
+      "category": "manhwa"
+    },
+    {
+      "key": "manhuaus",
+      "name": "Manhuaus",
+      "engine": "madara",
+      "url": "https://manhuaus.com",
+      "category": "manhwa"
+    },
+    {
+      "key": "manhuafast",
+      "name": "Manhua Fast",
+      "engine": "madara",
+      "url": "https://manhuafast.net",
+      "category": "manhwa"
+    },
+    {
+      "key": "manhwatop",
+      "name": "ManhwaTop",
+      "engine": "madara",
+      "url": "https://manhwatop.com",
+      "category": "manhwa"
+    },
+    {
+      "key": "toontop",
+      "name": "ToonTop",
+      "engine": "madara",
+      "url": "https://toontop.net",
+      "category": "manhwa"
+    },
+    {
+      "key": "freemanhwa",
+      "name": "FreeManhwa",
+      "engine": "madara",
+      "url": "https://freemanhwa.org",
+      "category": "manhwa"
+    },
+    {
+      "key": "mangasushi",
+      "name": "MangaSushi",
+      "engine": "madara",
+      "url": "https://mangasushi.org",
+      "category": "manga"
+    },
+    {
+      "key": "mangagayy",
+      "name": "MangaGayy",
+      "engine": "madara",
+      "url": "https://mangagayy.com",
+      "category": "manga"
+    },
+    {
+      "key": "madaradex",
+      "name": "MadaraDex",
+      "engine": "madara",
+      "url": "https://madaradex.org",
+      "category": "manga"
+    },
+    {
+      "key": "madarascans",
+      "name": "Madara Scans",
+      "engine": "themesia",
+      "url": "https://madarascans.com",
+      "category": "manga"
+    },
+    {
+      "key": "baetoon",
+      "name": "BaeToon",
+      "engine": "madara",
+      "url": "https://baetoon.com",
+      "category": "manhwa"
+    },
+    {
+      "key": "chikari",
+      "name": "Chikari",
+      "engine": "themesia",
+      "url": "https://chikari.net",
+      "category": "manga"
+    },
+    {
+      "key": "comicland",
+      "name": "ComicLand",
+      "engine": "themesia",
+      "url": "https://comicland.org",
+      "category": "manga"
+    },
+    {
+      "key": "aquareader",
+      "name": "AquaReader",
+      "engine": "themesia",
+      "url": "https://aquareader.net",
+      "category": "manga"
+    },
+    {
+      "key": "asterscans",
+      "name": "Aster Scans",
+      "engine": "themesia",
+      "url": "https://asterscans.com",
+      "category": "manhwa"
+    },
+    {
+      "key": "demonicscans",
+      "name": "Demonic Scans",
+      "engine": "themesia",
+      "url": "https://demonicscans.org",
+      "category": "manhwa"
+    },
+    {
+      "key": "elftoon",
+      "name": "Elftoon",
+      "engine": "themesia",
+      "url": "https://elftoon.com",
+      "category": "manhwa"
+    },
+    {
+      "key": "flamecomics",
+      "name": "Flame Comics",
+      "engine": "themesia",
+      "url": "https://flamecomics.xyz",
+      "category": "manhwa"
+    },
+    {
+      "key": "fropi",
+      "name": "Fropi",
+      "engine": "themesia",
+      "url": "https://fropi.net",
+      "category": "manga"
+    },
+    {
+      "key": "genztoons",
+      "name": "GenzToons",
+      "engine": "themesia",
+      "url": "https://genzupdates.com",
+      "category": "manhwa"
+    },
+    {
+      "key": "hivetoons",
+      "name": "HiveToons",
+      "engine": "themesia",
+      "url": "https://hivetoons.org",
+      "category": "manhwa"
+    },
+    {
+      "key": "justmanga",
+      "name": "JustManga",
+      "engine": "themesia",
+      "url": "https://justmanga.io",
+      "category": "manga"
+    },
+    {
+      "key": "kingofshojo",
+      "name": "KingofShojo",
+      "engine": "themesia",
+      "url": "https://kingofshojo.com",
+      "category": "manga"
+    },
+    {
+      "key": "kuramanga",
+      "name": "KuraManga",
+      "engine": "themesia",
+      "url": "https://kuramanga.com",
+      "category": "manga"
+    },
+    {
+      "key": "lagoonscans",
+      "name": "Lagoon Scans",
+      "engine": "themesia",
+      "url": "https://lagoonscans.com",
+      "category": "manhwa"
+    },
+    {
+      "key": "luacomic",
+      "name": "LuaComic",
+      "engine": "themesia",
+      "url": "https://luacomic.org",
+      "category": "manhwa"
+    },
+    {
+      "key": "lunarx",
+      "name": "LunarX",
+      "engine": "themesia",
+      "url": "https://lunarx.org",
+      "category": "manhwa"
+    },
+    {
+      "key": "mangaball",
+      "name": "MangaBall",
+      "engine": "themesia",
+      "url": "https://mangaball.net",
+      "category": "manga"
+    },
+    {
+      "key": "mangadna",
+      "name": "MangaDNA",
+      "engine": "themesia",
+      "url": "https://mangadna.com",
+      "category": "manga"
+    },
+    {
+      "key": "mangamob",
+      "name": "MangaMob",
+      "engine": "themesia",
+      "url": "https://mangamob.com",
+      "category": "manga"
+    },
+    {
+      "key": "mangapi",
+      "name": "MangaPi",
+      "engine": "themesia",
+      "url": "https://mangapi.com",
+      "category": "manga"
+    },
+    {
+      "key": "mangastash",
+      "name": "MangaStash",
+      "engine": "themesia",
+      "url": "https://mangastash.com",
+      "category": "manga"
+    },
+    {
+      "key": "mangataro",
+      "name": "MangaTaro",
+      "engine": "themesia",
+      "url": "https://mangataro.org",
+      "category": "manga"
+    },
+    {
+      "key": "qiscans",
+      "name": "QiScans",
+      "engine": "themesia",
+      "url": "https://qiscans.org",
+      "category": "manhwa"
+    },
+    {
+      "key": "roliascan",
+      "name": "RoliaScan",
+      "engine": "themesia",
+      "url": "https://roliascan.com",
+      "category": "manhwa"
+    },
+    {
+      "key": "swarm",
+      "name": "Swarm",
+      "engine": "themesia",
+      "url": "https://swarmscans.com",
+      "category": "manhwa"
+    },
+    {
+      "key": "toonverse",
+      "name": "ToonVerse",
+      "engine": "themesia",
+      "url": "https://toonverse.com",
+      "category": "manhwa"
+    },
+    {
+      "key": "vortexscans",
+      "name": "VortexScans",
+      "engine": "themesia",
+      "url": "https://vortexscans.org",
+      "category": "manhwa"
+    },
+    {
+      "key": "webnex",
+      "name": "WebNex",
+      "engine": "themesia",
+      "url": "https://webnex.net",
+      "category": "manhwa"
+    },
+    {
+      "key": "xtoonhub",
+      "name": "XToonHub",
+      "engine": "themesia",
+      "url": "https://xtoonhub.com",
+      "category": "manhwa"
+    }
+  ]
+}
